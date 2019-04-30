@@ -1,5 +1,9 @@
-# C++中的map
-
+---
+layout: post
+title: C++中的map使用"
+tags: [ C++,map]
+comments: true
+---
 ### 简介
 
 * 是STL的一个关联容器，提供一对一（**key：value**）的数据处理；
