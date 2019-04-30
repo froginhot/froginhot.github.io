@@ -29,7 +29,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+    url: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/007iuyE8gy1g23j11p4xsj30rs15d7wh.jpg
 
 # Pagination
 paginate: 5
