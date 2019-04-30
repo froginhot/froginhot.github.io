@@ -1,5 +1,9 @@
-# Matlab&Simulink中的Fixed point
-
+---
+layout: post
+title: "Matlab&Simulink中的Fixed point"
+tags: [ fixed point]
+comments: true
+---
 #### 设计思想
 
 * 定点设计通过工具辅助完成；
